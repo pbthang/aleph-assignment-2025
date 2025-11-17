@@ -1,0 +1,1042 @@
+[
+  {
+    "make": "Tesla",
+    "model": "Model Y",
+    "price": 64950,
+    "electric": true,
+    "year": 2023,
+    "range": 330,
+    "color": "White",
+    "inStock": true
+  },
+  {
+    "make": "Ford",
+    "model": "F-Series",
+    "price": 33850,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "price": 29600,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Silver",
+    "inStock": false
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Bolt EV",
+    "price": 36620,
+    "electric": true,
+    "year": 2022,
+    "range": 259,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Nissan",
+    "model": "Leaf",
+    "price": 31600,
+    "electric": true,
+    "year": 2021,
+    "range": 150,
+    "color": "Green",
+    "inStock": true
+  },
+  {
+    "make": "BMW",
+    "model": "i3",
+    "price": 44450,
+    "electric": true,
+    "year": 2020,
+    "range": 153,
+    "color": "Black",
+    "inStock": false
+  },
+  {
+    "make": "Audi",
+    "model": "e-tron",
+    "price": 65900,
+    "electric": true,
+    "year": 2022,
+    "range": 222,
+    "color": "Gray",
+    "inStock": true
+  },
+  {
+    "make": "Hyundai",
+    "model": "Kona Electric",
+    "price": 37990,
+    "electric": true,
+    "year": 2023,
+    "range": 258,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Kia",
+    "model": "Niro EV",
+    "price": 39990,
+    "electric": true,
+    "year": 2023,
+    "range": 239,
+    "color": "White",
+    "inStock": true
+  },
+  {
+    "make": "Volkswagen",
+    "model": "ID.4",
+    "price": 39995,
+    "electric": true,
+    "year": 2022,
+    "range": 260,
+    "color": "Silver",
+    "inStock": false
+  },
+  {
+    "make": "Rivian",
+    "model": "R1T",
+    "price": 67300,
+    "electric": true,
+    "year": 2023,
+    "range": 314,
+    "color": "Green",
+    "inStock": true
+  },
+  {
+    "make": "Lucid",
+    "model": "Air",
+    "price": 77400,
+    "electric": true,
+    "year": 2024,
+    "range": 406,
+    "color": "Black",
+    "inStock": false
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "EQC",
+    "price": 67900,
+    "electric": true,
+    "year": 2021,
+    "range": 220,
+    "color": "White",
+    "inStock": true
+  },
+  {
+    "make": "Volvo",
+    "model": "XC40 Recharge",
+    "price": 53990,
+    "electric": true,
+    "year": 2022,
+    "range": 223,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Porsche",
+    "model": "Taycan",
+    "price": 82600,
+    "electric": true,
+    "year": 2023,
+    "range": 246,
+    "color": "Red",
+    "inStock": false
+  },
+  {
+    "make": "Jaguar",
+    "model": "I-PACE",
+    "price": 69900,
+    "electric": true,
+    "year": 2021,
+    "range": 234,
+    "color": "Gray",
+    "inStock": true
+  },
+  {
+    "make": "Honda",
+    "model": "Clarity Electric",
+    "price": 33400,
+    "electric": true,
+    "year": 2019,
+    "range": 89,
+    "color": "White",
+    "inStock": false
+  },
+  {
+    "make": "Mazda",
+    "model": "MX-30",
+    "price": 33450,
+    "electric": true,
+    "year": 2022,
+    "range": 120,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Subaru",
+    "model": "Solterra",
+    "price": 44995,
+    "electric": true,
+    "year": 2023,
+    "range": 222,
+    "color": "Green",
+    "inStock": true
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado EV",
+    "price": 39900,
+    "electric": true,
+    "year": 2024,
+    "range": 400,
+    "color": "Gray",
+    "inStock": false
+  },
+  {
+    "make": "GMC",
+    "model": "Hummer EV",
+    "price": 112595,
+    "electric": true,
+    "year": 2022,
+    "range": 329,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Fisker",
+    "model": "Ocean",
+    "price": 37999,
+    "electric": true,
+    "year": 2023,
+    "range": 250,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Polestar",
+    "model": "2",
+    "price": 49900,
+    "electric": true,
+    "year": 2022,
+    "range": 270,
+    "color": "White",
+    "inStock": true
+  },
+  {
+    "make": "Mini",
+    "model": "Electric",
+    "price": 29900,
+    "electric": true,
+    "year": 2021,
+    "range": 145,
+    "color": "Yellow",
+    "inStock": false
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang Mach-E",
+    "price": 42895,
+    "electric": true,
+    "year": 2023,
+    "range": 305,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Toyota",
+    "model": "bZ4X",
+    "price": 41990,
+    "electric": true,
+    "year": 2023,
+    "range": 252,
+    "color": "Silver",
+    "inStock": true
+  },
+  {
+    "make": "Nissan",
+    "model": "Ariya",
+    "price": 45400,
+    "electric": true,
+    "year": 2023,
+    "range": 300,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq 5",
+    "price": 44900,
+    "electric": true,
+    "year": 2022,
+    "range": 303,
+    "color": "Green",
+    "inStock": false
+  },
+  {
+    "make": "Kia",
+    "model": "EV6",
+    "price": 42990,
+    "electric": true,
+    "year": 2022,
+    "range": 310,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf",
+    "price": 31995,
+    "electric": true,
+    "year": 2020,
+    "range": 125,
+    "color": "White",
+    "inStock": false
+  },
+  {
+    "make": "BMW",
+    "model": "i4",
+    "price": 55900,
+    "electric": true,
+    "year": 2022,
+    "range": 301,
+    "color": "Gray",
+    "inStock": true
+  },
+  {
+    "make": "Audi",
+    "model": "Q4 e-tron",
+    "price": 49900,
+    "electric": true,
+    "year": 2022,
+    "range": 241,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "EQS",
+    "price": 102310,
+    "electric": true,
+    "year": 2022,
+    "range": 350,
+    "color": "Black",
+    "inStock": false
+  },
+  {
+    "make": "Jaguar",
+    "model": "XE",
+    "price": 39900,
+    "electric": false,
+    "year": 2020,
+    "range": 0,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "price": 22600,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Silver",
+    "inStock": true
+  },
+  {
+    "make": "Mazda",
+    "model": "CX-5",
+    "price": 27500,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "price": 27700,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Green",
+    "inStock": false
+  },
+  {
+    "make": "Dodge",
+    "model": "Charger",
+    "price": 29995,
+    "electric": false,
+    "year": 2020,
+    "range": 0,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "price": 28495,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Yellow",
+    "inStock": true
+  },
+  {
+    "make": "Ram",
+    "model": "1500",
+    "price": 32195,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "White",
+    "inStock": false
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "price": 31900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Cadillac",
+    "model": "XT5",
+    "price": 43295,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Silver",
+    "inStock": true
+  },
+  {
+    "make": "Lincoln",
+    "model": "Nautilus",
+    "price": 42670,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Red",
+    "inStock": false
+  },
+  {
+    "make": "Infiniti",
+    "model": "Q50",
+    "price": 36900,
+    "electric": false,
+    "year": 2020,
+    "range": 0,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Acura",
+    "model": "TLX",
+    "price": 37900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Gray",
+    "inStock": true
+  },
+  {
+    "make": "Genesis",
+    "model": "G70",
+    "price": 37000,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "White",
+    "inStock": true
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "price": 39450,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Blue",
+    "inStock": false
+  },
+  {
+    "make": "Maserati",
+    "model": "Ghibli",
+    "price": 69900,
+    "electric": false,
+    "year": 2020,
+    "range": 0,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Lexus",
+    "model": "ES",
+    "price": 40200,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Silver",
+    "inStock": true
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "price": 54900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Black",
+    "inStock": false
+  },
+  {
+    "make": "BMW",
+    "model": "5 Series",
+    "price": 54900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "White",
+    "inStock": true
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "price": 54950,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Gray",
+    "inStock": true
+  },
+  {
+    "make": "Cadillac",
+    "model": "CT5",
+    "price": 45995,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Blue",
+    "inStock": false
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "price": 50700,
+    "electric": false,
+    "year": 2020,
+    "range": 0,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Volvo",
+    "model": "S90",
+    "price": 50750,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Silver",
+    "inStock": true
+  },
+  {
+    "make": "Tesla",
+    "model": "Model S",
+    "price": 89990,
+    "electric": true,
+    "year": 2023,
+    "range": 405,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3",
+    "price": 39990,
+    "electric": true,
+    "year": 2022,
+    "range": 358,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Tesla",
+    "model": "Model X",
+    "price": 99990,
+    "electric": true,
+    "year": 2023,
+    "range": 348,
+    "color": "White",
+    "inStock": false
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "price": 25000,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Yellow",
+    "inStock": true
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "price": 32700,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Green",
+    "inStock": true
+  },
+  {
+    "make": "Toyota",
+    "model": "RAV4",
+    "price": 27600,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Blue",
+    "inStock": false
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "price": 26500,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Silver",
+    "inStock": true
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "price": 24500,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "White",
+    "inStock": true
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "price": 20100,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Red",
+    "inStock": false
+  },
+  {
+    "make": "Kia",
+    "model": "Sorento",
+    "price": 28900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "price": 23995,
+    "electric": false,
+    "year": 2020,
+    "range": 0,
+    "color": "Gray",
+    "inStock": true
+  },
+  {
+    "make": "Subaru",
+    "model": "Forester",
+    "price": 24900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Green",
+    "inStock": true
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazda3",
+    "price": 20600,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Blue",
+    "inStock": false
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "price": 34200,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "White",
+    "inStock": true
+  },
+  {
+    "make": "Dodge",
+    "model": "Durango",
+    "price": 31600,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Ram",
+    "model": "2500",
+    "price": 34900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Silver",
+    "inStock": false
+  },
+  {
+    "make": "GMC",
+    "model": "Canyon",
+    "price": 26300,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Cadillac",
+    "model": "Escalade",
+    "price": 75900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Lincoln",
+    "model": "Aviator",
+    "price": 60900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Gray",
+    "inStock": true
+  },
+  {
+    "make": "Infiniti",
+    "model": "QX60",
+    "price": 44900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "White",
+    "inStock": false
+  },
+  {
+    "make": "Acura",
+    "model": "RDX",
+    "price": 42900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Genesis",
+    "model": "GV80",
+    "price": 48500,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Silver",
+    "inStock": true
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "price": 41900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Red",
+    "inStock": false
+  },
+  {
+    "make": "Maserati",
+    "model": "Levante",
+    "price": 84900,
+    "electric": false,
+    "year": 2020,
+    "range": 0,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Lexus",
+    "model": "RX",
+    "price": 44900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Green",
+    "inStock": true
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "price": 43900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Gray",
+    "inStock": false
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "price": 60900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE",
+    "price": 62900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "White",
+    "inStock": true
+  },
+  {
+    "make": "Cadillac",
+    "model": "XT6",
+    "price": 49900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Silver",
+    "inStock": false
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "price": 50900,
+    "electric": false,
+    "year": 2020,
+    "range": 0,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Volvo",
+    "model": "XC60",
+    "price": 47900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Mini",
+    "model": "Countryman",
+    "price": 28600,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Yellow",
+    "inStock": false
+  },
+  {
+    "make": "Ford",
+    "model": "Bronco",
+    "price": 31995,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Orange",
+    "inStock": true
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "price": 49900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Brown",
+    "inStock": true
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "price": 34900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Beige",
+    "inStock": false
+  },
+  {
+    "make": "Honda",
+    "model": "Pilot",
+    "price": 32400,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Gray",
+    "inStock": true
+  },
+  {
+    "make": "Nissan",
+    "model": "Murano",
+    "price": 31900,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Silver",
+    "inStock": true
+  },
+  {
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "price": 27600,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "White",
+    "inStock": false
+  },
+  {
+    "make": "Kia",
+    "model": "Telluride",
+    "price": 32990,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "price": 25595,
+    "electric": false,
+    "year": 2020,
+    "range": 0,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "price": 22900,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Green",
+    "inStock": true
+  },
+  {
+    "make": "Mazda",
+    "model": "CX-30",
+    "price": 22300,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Red",
+    "inStock": false
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass",
+    "price": 23995,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "White",
+    "inStock": true
+  },
+  {
+    "make": "Dodge",
+    "model": "Journey",
+    "price": 20200,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Black",
+    "inStock": true
+  },
+  {
+    "make": "Ram",
+    "model": "Dakota",
+    "price": 25200,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Silver",
+    "inStock": false
+  },
+  {
+    "make": "GMC",
+    "model": "Terrain",
+    "price": 26300,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Red",
+    "inStock": true
+  },
+  {
+    "make": "Cadillac",
+    "model": "XT4",
+    "price": 35995,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "Blue",
+    "inStock": true
+  },
+  {
+    "make": "Lincoln",
+    "model": "Corsair",
+    "price": 36400,
+    "electric": false,
+    "year": 2021,
+    "range": 0,
+    "color": "Gray",
+    "inStock": true
+  },
+  {
+    "make": "Infiniti",
+    "model": "QX50",
+    "price": 38400,
+    "electric": false,
+    "year": 2022,
+    "range": 0,
+    "color": "White",
+    "inStock": false
+  }
+]
