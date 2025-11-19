@@ -20,6 +20,7 @@ export const getSimpleId = () => {
 };
 
 const groq = new Groq({
+    // just for demo purposes, in real app use secure backend to handle API keys
     apiKey: import.meta.env.VITE_GROQ_API_KEY || "",
     dangerouslyAllowBrowser: true,
 });
